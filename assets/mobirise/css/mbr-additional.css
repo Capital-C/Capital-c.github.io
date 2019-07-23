@@ -1813,25 +1813,42 @@ body {
   color: #767676 !important;
 }
 .cid-rwksmdKeN8 {
-  background-image: url("../../../assets/images/mbr-1280x1920.jpeg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rwksmdKeN8 H1 {
-  color: #f0e310;
+  color: #e4d295;
 }
 .cid-rwksmdKeN8 .mbr-text,
 .cid-rwksmdKeN8 .mbr-section-btn {
-  text-align: right;
-  color: #f7ed4a;
+  text-align: center;
+  color: #f9f295;
 }
-.cid-rwmsEwuoE5 {
-  background: #ffffff;
+.cid-rx3mEuJFlE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f295;
 }
-.cid-rwmsEwuoE5 .video-block {
+.cid-rx3mEuJFlE P {
+  color: #767676;
+}
+.cid-rx3mEuJFlE H1 {
+  color: #296c9b;
+}
+.cid-rx3mEuJFlE .mbr-text,
+.cid-rx3mEuJFlE .mbr-section-btn {
+  color: #0f7699;
+}
+.cid-rx1Y28LMRB {
+  background: #8d37b3;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #8d37b3, #f9f295);
+}
+.cid-rx1Y28LMRB .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rwmsEwuoE5 .video-block {
+  .cid-rx1Y28LMRB .video-block {
     width: 100% !important;
   }
 }
@@ -1844,8 +1861,9 @@ body {
   text-align: center;
 }
 .cid-rwmuo1QGsc .mbr-section-subtitle {
-  color: #767676;
+  color: #8733ac;
   font-weight: 300;
+  text-align: center;
 }
 .cid-rwmuo1QGsc .mbr-content-text {
   color: #0f7699;
@@ -1862,6 +1880,43 @@ body {
 }
 .cid-rwmuo1QGsc H4 {
   color: #0f7699;
+}
+.cid-rwmuo1QGsc .mbr-section-title {
+  color: #8733ac;
+}
+.cid-rwmuo1QGsc H3 {
+  color: #55b4d4;
+}
+.cid-rx1WNWcmWP {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #81cbdc;
+}
+.cid-rx1WNWcmWP .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-rx1WNWcmWP .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-rx1WNWcmWP .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-rx1WNWcmWP .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-rx1WNWcmWP .google-map[data-state="loading"] [data-state-details] {
+  display: none;
 }
 .cid-rwksB1dk7j {
   padding-top: 30px;
